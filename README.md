@@ -1,10 +1,13 @@
-**Triângulo de Floyd**
+## Triângulo de Floyd
+
 Este script em Python imprime o Triângulo de Floyd com base no número de linhas que o usuário define.
 
 **Descrição**
+
 O Triângulo de Floyd é uma disposição de números naturais em formato triangular, onde a primeira linha contém 1 número, a segunda contém 2 números, a terceira contém 3 números e assim por diante. O script solicita que o usuário insira o número de linhas desejadas e, em seguida, imprime o triângulo com a quantidade correspondente de números.
 
 **Como funciona?**
+
 O script começa pedindo ao usuário para inserir um número de linhas. Se o número for maior que 0, ele irá construir o triângulo. Caso contrário, uma mensagem de erro será exibida.
 
 **Estrutura do Código**
